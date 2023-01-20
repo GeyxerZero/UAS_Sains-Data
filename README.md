@@ -1,6 +1,6 @@
 # Ujian Akhir Semester Sains Data
 ```
-
+Muhammad Azzam Al Fauzie
 19.01.013.084
 Sains Data
 ```
@@ -10,6 +10,7 @@ Sains Data
 [Menggunakan Data Mining untuk Mengklasifikasi Rating Permainan Studi Kasus pada Industri Game.pdf](https://github.com/GeyxerZero/UAS_Sains-Data/files/10463421/Menggunakan.Data.Mining.untuk.Mengklasifikasi.Rating.Permainan.Studi.Kasus.pada.Industri.Game.pdf)
 
 ## Link Vidio
+
 
 ## File DataSet
 
